@@ -1,0 +1,9 @@
+exclude:
+  - .github
+  - vendor
+
+collections:
+  - guestbook
+
+masterclass:
+  github: https://github.com/ashie-princess/github-masterclass
